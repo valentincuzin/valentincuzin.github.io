@@ -17,7 +17,6 @@ theme:
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
-site_dir: ./
 nav:
   - Home: index.md
   - Projects: project.md
