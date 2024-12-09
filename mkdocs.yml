@@ -17,7 +17,7 @@ theme:
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
-site_dir: ./
+site_dir: ./BuildMkdocs
 nav:
   - Home: index.md
   - Projects: project.md
