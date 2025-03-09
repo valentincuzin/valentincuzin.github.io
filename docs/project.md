@@ -1,7 +1,16 @@
 # Projects
 In this sections you can retrive some archived work.
 
+## Artificial Intelligence For Internet Of Things
+A Plateau Ballancing problem with arduino.
+
+- [report](./assets/Rapport_AI4IOT.pdf) in french
+- [repository github](https://github.com/valentincuzin/AI4IOT)
+- mark: 17.5/20
+- date: November 2024 to January 2025
+
 ## Data Mining: Stack Overflow
+A deep analysis on stack Overflow dataset
 
 - [report](./assets/Rapport_Data_mining.pdf)
 - [repository github](https://github.com/valentincuzin/StackOverflow_analyse)
@@ -12,7 +21,7 @@ In this sections you can retrive some archived work.
 A study of how work RNN, LSTM, in the case of finding the good Emotion associated to a sentences
 
 - [report](./assets/Rapport_Projet_RNN.pdf) in french
-- mark: /
+- mark: 16/20
 - date: October 2024 to November 2024
 
 ## BIOML2: GNN links prediction

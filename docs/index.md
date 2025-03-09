@@ -15,5 +15,5 @@ My academic transcript:
 ## networks
 
 - [github](https://github.com/valentincuzin)
-- [email](mailto:valentincuzin@murena.io)
+- [email](mailto:valentincuzin.pro@ikmail.com)
 - [linkedin](https://www.linkedin.com/in/valentin-cuzin-rambaud)
