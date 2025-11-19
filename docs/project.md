@@ -1,6 +1,23 @@
 # Projects
 In this sections you can retrive some archived work.
 
+
+## Intern at Liris
+
+- I'm doing research on link prediction with graph contrastive learning methods.
+- Supervisor: Rémy Cazabet and Mathieu Lefort
+- Abstract:
+	> Recently, instance discrimination models have emerged as a major solution for self-supervised learning. Having already demonstrated its effectiveness in the image domain, instance discrimination learning is now proving equally convincing in the graph domain, in particular for the node classification task. However, fewer contributions have tackled the link prediction task, the focus of the current paper, where we propose to adapt existing methods in this context. We first provide a rigorous evaluation of existing self-supervised models in the field of link prediction, demonstrating that the main performance depends on the augmentation process for all instance discrimination methods. We then propose a new structural augmentation based on the community structure that is relevant for link prediction. Finally, we introduce two new models, L-GRACE and L-BGRL, that improve the performance of the existing methods, and we show that they perform on par with both supervised and self-supervised models of the current state of the art.
+- [ ] TODO Add ArXiV Paper link
+- date: February 2025 to August 2025
+
+## Vision-grounded Integration for Reward design And Learning (VIRAL)
+
+- This project aims to create a framework for reward function generation in Gymnasium environments, utilizing and VideoLLM in order to enchance aligment too. Below, you can see how the framework is structured. The paper was accepted on [LLAIS workshop at ECAI 2025](https://llias2025.web.app/).
+- [arXiv paper](https://arxiv.org/pdf/2505.22092?)
+- [repository github](https://github.com/VIRAL-UCBL1/VIRAL)
+- date: December 2024 to June 2025
+
 ## Artificial Intelligence For Internet Of Things
 A Plateau Ballancing problem with arduino.
 
