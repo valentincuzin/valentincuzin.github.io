@@ -1,22 +1,28 @@
-# Projects
+# Archived Projects
 In this sections you can retrive some archived work.
-
 
 ## Intern at Liris
 
-- I'm doing research on link prediction with graph contrastive learning methods.
+- Research on link prediction with graph contrastive learning methods.
 - Supervisor: Rémy Cazabet and Mathieu Lefort
 - Abstract:
 	> Recently, instance discrimination models have emerged as a major solution for self-supervised learning. Having already demonstrated its effectiveness in the image domain, instance discrimination learning is now proving equally convincing in the graph domain, in particular for the node classification task. However, fewer contributions have tackled the link prediction task, the focus of the current paper, where we propose to adapt existing methods in this context. We first provide a rigorous evaluation of existing self-supervised models in the field of link prediction, demonstrating that the main performance depends on the augmentation process for all instance discrimination methods. We then propose a new structural augmentation based on the community structure that is relevant for link prediction. Finally, we introduce two new models, L-GRACE and L-BGRL, that improve the performance of the existing methods, and we show that they perform on par with both supervised and self-supervised models of the current state of the art.
-- [ ] TODO Add ArXiV Paper link
+- Paper under submission at Data Mining and Knowledge Discovery (DMKD): [preprint](https://hal.science/hal-05618953v1/document)
+- [repository github](https://github.com/valentincuzin/GCL-Link-Prediction)
 - date: February 2025 to August 2025
 
 ## Vision-grounded Integration for Reward design And Learning (VIRAL)
 
 - This project aims to create a framework for reward function generation in Gymnasium environments, utilizing and VideoLLM in order to enchance aligment too. Below, you can see how the framework is structured. The paper was accepted on [LLAIS workshop at ECAI 2025](https://llias2025.web.app/).
-- [arXiv paper](https://arxiv.org/pdf/2505.22092?)
+- [HAL paper](https://hal.science/hal-05368143v1/document)
 - [repository github](https://github.com/VIRAL-UCBL1/VIRAL)
 - date: December 2024 to June 2025
+
+### ECAI 2025
+- I was present at [ECAI 2025](https://ecai2025.org/) for presenting VIRAL Paper in the [LLAIS workshop](https://llias2025.web.app/). I had some good discussions with researchers, and I have learn many new things focusing on Large Language Model, Reinforcement Learning, and Multi-Agent Systems fields.
+- [Associated Poster](./assets/VIRAL_poster-1.pdf)
+- I have made a presentation about relevant articles at ECAI 2025, to my research team SyCoSMA: [slides_ECAI2025.pdf](./assets/slides_ECAI2025.pdf)
+
 
 ## Artificial Intelligence For Internet Of Things
 A Plateau Ballancing problem with arduino.

@@ -6,6 +6,13 @@
 - **Title:** Hierarchical and transferable multi-agent reinforcement learning: an approach based on communication and graph representations
 - **Abstract:** This thesis focuses on multi-agent reinforcement learning (MARL) in dynamic and partially observable environments, where decentralized coordination is essential. Traditional CTDE (Centralized Training with Decentralized Execution) approaches assume perfect communication during training, an unrealistic assumption in real systems subject to communication and resource constraints. The objective is to develop a decentralized, hierarchical, and transferable learning framework that enables agents to communicate adaptively, coordinate their behaviors despite limited observability, and transfer their skills to new tasks, agent configurations, or communication structures, with the goal of continuous learning.
 
-# ECAI 2025
-- I was present at [ECAI 2025](https://ecai2025.org/) for presenting VIRAL Paper in the [LLAIS workshop](https://llias2025.web.app/). I had some good discussions with researchers, and I have learn many new things focusing on Large Language Model, Reinforcement Learning, and Multi-Agent Systems fields.
-- [ ] Todo add slides presenting interesting papers
+## A Survey of Multi-Agent Deep Reinforcement Learning with Graph Neural Network-Based Communication
+
+- Abstract:
+> In multi-agent reinforcement learning (MARL), the integration of a communication mechanism, allowing agents to better learn to coordinate their actions and converge on their objectives by sharing information. Based on an interaction graph, a subclass of methods employs graph neural networks (GNNs) to learn the communication, enabling agents to improve their internal representations by enriching them with information exchanged. With growing research, we note a lack of explicit structure and framework to distinguish and classify MARL approaches with communication based on GNNs. Thus, this paper surveys recent works in this field. We propose a generalized GNN-based communication process with the goal of making the underlying concepts behind the methods more obvious and accessible. 
+- Paper accepted at RJCIA@PFIA 2026
+- [Best paper of the conference](https://www.linkedin.com/feed/update/urn:li:activity:7478855801474904067/).
+
+## Introducing Temporal-GNN in Multi-Agent Reinforcement Learning
+
+- At the JFSMA@PFIA 2026 conference, I presented my research advances regarding the use of a Temporal-GNN to enable learning based on the dynamic communication graph of agents. [The poster in French](./assets/JFSMAPoster.pdf)

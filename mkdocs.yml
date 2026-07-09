@@ -20,5 +20,6 @@ theme:
 site_dir: ./BuildMkdocs
 nav:
   - Home: index.md
-  - Projects: project.md
   - News: news.md
+  - Teaching: teaching.md
+  - Archived Projects: project.md

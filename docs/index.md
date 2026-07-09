@@ -6,7 +6,7 @@ I'm recently graduate with a master degrees specialised in [Artificial Intellige
 
 ## CV
 
-My latest CV [in french](./assets/Awesome_CV.pdf)
+[My latest CV, June 2026](./assets/ValentinCV2026.pdf)
 
 ## Keyword Topics
 
@@ -22,3 +22,4 @@ My latest CV [in french](./assets/Awesome_CV.pdf)
 - [email](mailto:valentincuzin.pro@ikmail.com)
 - [linkedin](https://www.linkedin.com/in/valentin-cuzin-rambaud)
 - [google scholar](https://scholar.google.fr/citations?user=Z9kp4kAAAAAJ)
+- [ORCID: 0009-0001-5244-3394](https://orcid.org/0009-0001-5244-3394)
