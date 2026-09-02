@@ -4,6 +4,15 @@ Actually a phd student in Artificial Intelligence from [LIRIS](https://liris.cnr
 
 I'm recently graduate with a master degrees specialised in [Artificial Intelligence](http://master-info.univ-lyon1.fr/IA/).
 
+## Teaching
+
+If you have any questions about teaching: [valentin.cuzin-rambaud@univ-lyon1.fr](mailto:valentin.cuzin-rambaud@univ-lyon1.fr)
+
+I teach various courses at both the bachelor's and master's levels:
+
+- http://licence-info.univ-lyon1.fr/
+- http://master-info.univ-lyon1.fr/
+
 ## CV
 
 [My latest CV, June 2026](./assets/ValentinCV2026.pdf)

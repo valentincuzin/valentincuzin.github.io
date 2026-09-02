@@ -21,6 +21,6 @@ site_dir: ./BuildMkdocs
 nav:
   - Home: index.md
   - News: news.md
-  - Teaching: teaching.md
+  - Teaching:
     - M2 IA DL - GNN: GNN.md
   - Archived Projects: project.md
