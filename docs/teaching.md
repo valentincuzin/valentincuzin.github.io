@@ -1,9 +1,14 @@
 # Teaching
-<!-- Redonner mon mail universitaire ici -->
 
-<!-- Petite page sur GNN -->
+Pour toute questions concernant l'enseignement : [valentin.cuzin-rambaud@univ-lyon1.fr](mailto:valentin.cuzin-rambaud@univ-lyon1.fr)
 
-<!-- Tableau avec mes cours et les liens associer en support -->
+J'interviens dans différentes UE que ce soit en licence ou en master :
+- http://licence-info.univ-lyon1.fr/
+- http://master-info.univ-lyon1.fr/
 
-<!-- Page pour GNN -->
-TODO
+### Deep Learning - GNN
+
+- TODO liens vers le pdf du cours
+- [TD-GNN](./assets/TD-GNN.pdf)
+- [Archive TP-GNN](./assets/TP-GNN.zip)
+- [Page du projet GNN](./GNN-project.md)
