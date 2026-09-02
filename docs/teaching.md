@@ -7,9 +7,4 @@ J'interviens dans différentes UE que ce soit en licence ou en master :
 - http://licence-info.univ-lyon1.fr/
 - http://master-info.univ-lyon1.fr/
 
-### Deep Learning - GNN
-
-- TODO liens vers le pdf du cours
-- [TD-GNN](./assets/TD-GNN.pdf)
-- [Archive TP-GNN](./assets/TP-GNN.zip)
-- [Page du projet GNN](./GNN-project.md)
+### [Deep Learning - GNN](./GNN.md)
