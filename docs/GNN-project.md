@@ -10,6 +10,7 @@ Vérifier que vous êtes capable d'entraîner sur ce réseau l'un des GCN simple
 Le projet se fait par groupes de 2 à 3 étudiants.
 
 La note est composée en 2 parties :
+
 - **Pour 5% de l'UE** : Le rapport sera sur 10 points, le code sera sur 10 points dont 2 points de questions de compréhension individuelles que nous poserons à la dernière session de projet le **01/10/2026**.
 - **Pour 25% de l'UE** : Une interrogation écrite portant sur votre projet et votre code.
 
