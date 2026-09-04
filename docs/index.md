@@ -10,8 +10,8 @@ If you have any questions about teaching: [valentin.cuzin-rambaud@univ-lyon1.fr]
 
 I teach various courses at both the bachelor's and master's levels:
 
-- http://licence-info.univ-lyon1.fr/
-- http://master-info.univ-lyon1.fr/
+- [http://licence-info.univ-lyon1.fr/](http://licence-info.univ-lyon1.fr/)
+- [http://master-info.univ-lyon1.fr/](http://master-info.univ-lyon1.fr/)
 
 ## CV
 
