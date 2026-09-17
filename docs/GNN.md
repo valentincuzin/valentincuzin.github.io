@@ -1,6 +1,6 @@
 # M2 IA Deep Learning - GNN
 
-- TODO liens vers le pdf du cours
+- [Slides du cours](./assets/BIML-GNN-slides.pdf)
 - [TD-GNN](./assets/TD-GNN.pdf)
 - [Archive TP-GNN](./assets/TP-GNN.zip)
 
