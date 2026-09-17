@@ -52,10 +52,10 @@ A study of how work RNN, LSTM, in the case of finding the good Emotion associate
 ### BIOML2: GNN links prediction
 The project aims is to predict link from a graphml files using GNN.
 
-- [report](./assets/Report_Project_GNN.pdf) in english
+<!-- - [report](./assets/Report_Project_GNN.pdf) in english
 - [repository github](https://github.com/adesbx/Gnn-links-prediction)
 - mark: 14/20
-- date: October 2024
+- date: October 2024 -->
 
 ### BIOML1: Introduction Deep learning
 We've compared shallow networks, MLP and CNN on MNIST dataset, with a focus on hyperparameter-tuning thanks to optuna.
